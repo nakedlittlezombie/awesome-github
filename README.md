@@ -495,6 +495,8 @@
 
 ## Python 
 
+- [raccommode/P-StreamRec](https://github.com/raccommode/P-StreamRec) - Complete application for automatic recording of Chaturbate and m3u8 streams, All-in-one Docker container to watch and automatically record HLS/m3u8 streams, with a modern web interface.
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos & Google Takeout. The Tool supports multiple account
 - [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
 - [infinition/bjorn-detector](https://github.com/infinition/bjorn-detector) - Bjorn Detector: One-Click SSH Access to Your Device in a radar style
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -786,6 +788,8 @@
 
 ## Shell 
 
+- [dockur/zima](https://github.com/dockur/zima) - ZimaOS inside a Docker container.
+- [dockur/casa](https://github.com/dockur/casa) - CasaOS inside a Docker container.
 - [AndrewMarchukov/tracker-add](https://github.com/AndrewMarchukov/tracker-add) - Fully automated script for adding more trackers to Transmission.
 - [BrettKinny/tower-dashboard](https://github.com/BrettKinny/tower-dashboard) - TUI monitoring dashboard for Unraid: btop, nvtop, ctop, and fan-status composed in a single tmux window over SSH, launchable from any XDG app launcher.
 - [Gennyi07/immich-native-android](https://github.com/Gennyi07/immich-native-android) - Immich running natively on Android (Termux, no root, no Docker) — aarch64 port with WebDAV external library support
@@ -823,7 +827,6 @@
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [CyberSkull/cbz.sh](https://github.com/CyberSkull/cbz.sh) - Simple script to create a cbz archive from a folder.
 - [tmiland/invidious-updater](https://github.com/tmiland/invidious-updater) - Automatic install and update script for Invidious
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
@@ -875,6 +878,7 @@
 
 ## TypeScript 
 
+- [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
@@ -927,7 +931,7 @@
 - [limkcreply/open-gemini-cli](https://github.com/limkcreply/open-gemini-cli) - Extended fork of Gemini CLI with local LLM support (MLX, llama.cpp, vLLM), OpenAI, and Claude integration
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
 - [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。
 - [wladimiiir/albumate](https://github.com/wladimiiir/albumate) - An AI-powered desktop app for effortless photo organization.
 - [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly) - The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t
@@ -942,6 +946,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [Stannnnn/jelly-app](https://github.com/Stannnnn/jelly-app) - A lightweight & elegant music interface for Jellyfin.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
