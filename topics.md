@@ -960,6 +960,8 @@
 
 ## docker 
 
+- [dockur/casa](https://github.com/dockur/casa) - CasaOS inside a Docker container.
+- [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
@@ -2020,6 +2022,8 @@
 
 ## others 
 
+- [raccommode/P-StreamRec](https://github.com/raccommode/P-StreamRec) - Complete application for automatic recording of Chaturbate and m3u8 streams, All-in-one Docker container to watch and automatically record HLS/m3u8 streams, with a modern web interface.
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos & Google Takeout. The Tool supports multiple account
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
 - [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
 - [infinition/bjorn-detector](https://github.com/infinition/bjorn-detector) - Bjorn Detector: One-Click SSH Access to Your Device in a radar style
@@ -2162,7 +2166,7 @@
 - [PRITHIVSAKTHIUR/How-to-run-huggingface-spaces-on-local-machine-demo](https://github.com/PRITHIVSAKTHIUR/How-to-run-huggingface-spaces-on-local-machine-demo) - Running Hugging Face Spaces on a local machine / colab T4 GPU involves several steps. Hugging Face Spaces is a platform to host machine learning demos and applications using Streamlit, Gradio, or othe
 - [Vansmak/composr](https://github.com/Vansmak/composr) - A docker container manager and compose editor
 - [iamobservable/open-webui-starter](https://github.com/iamobservable/open-webui-starter) - Quick start for Open WebUI
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [dacctal/pkgit](https://github.com/dacctal/pkgit) - This repository is a very old version of pkgit and is completely inactive. The new version is hosted on symlinx.net
 - [darkdragn/party](https://github.com/darkdragn/party) - A quick *.party downloader (Update, they changed the site root to .su works for kemono.su and coomer.su )
 - [Dezaimasu/cute-button](https://github.com/Dezaimasu/cute-button) - Little button to save images and webms in one click.
@@ -2658,6 +2662,8 @@
 
 ## self-hosted 
 
+- [dockur/zima](https://github.com/dockur/zima) - ZimaOS inside a Docker container.
+- [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container.
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
