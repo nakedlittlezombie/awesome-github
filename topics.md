@@ -37,6 +37,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
+- [code-quality](#code-quality)
 - [coding](#coding)
 - [command-line](#command-line)
 - [computer-vision](#computer-vision)
@@ -286,7 +287,7 @@
 
 ## ai 
 
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [fronalabs/frona](https://github.com/fronalabs/frona) - Frona is a personal AI assistant. You create autonomous agents, give them tools, and talk to them through a chat interface. Agents act on their own. They browse the web, run code, develop applications
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
@@ -376,6 +377,7 @@
 
 ## ai-agents 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
@@ -385,7 +387,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -475,6 +477,7 @@
 
 ## automation 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
@@ -494,6 +497,7 @@
 
 ## awesome 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -554,6 +558,7 @@
 
 ## awesome-list 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [getagentseal/awesome-mcp-security](https://github.com/getagentseal/awesome-mcp-security) - Security scores for 800+ MCP servers. 9 analyzers scan for prompt injection, toxic flows, and attack surface risks. Updated daily. 🛡️
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
@@ -761,7 +766,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program.
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [joowani/colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
 - [AzureHound/jelly](https://github.com/AzureHound/jelly) - 🪼 Explore & Stream Jellyfin via CLI
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -802,6 +807,10 @@
 ## code 
 
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
+
+## code-quality 
+
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
 ## coding 
 
@@ -935,7 +944,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -980,6 +989,7 @@
 
 ## docker 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -993,7 +1003,7 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [peterthepeter/groly](https://github.com/peterthepeter/groly) - Groly – A lightweight self-hosted grocery list, supplement tracker & meal planner PWA
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
@@ -1227,9 +1237,8 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [Aatricks/LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next) - Fastest Diffusion backend, WebUI, server. Pushing implementation and discovery of optimizations techniques 🚀
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
@@ -1369,6 +1378,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
 ## hacking-tool 
 
@@ -1446,7 +1456,7 @@
 
 ## image-processing 
 
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [SoftCreatR/imei](https://github.com/SoftCreatR/imei) - IMEI - ImageMagick Easy Install
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
@@ -1641,6 +1651,7 @@
 
 ## llm 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [miclaldogan/bantzv2](https://github.com/miclaldogan/bantzv2) - Bantz won't be a helper; he will be your Host. Your computer will become his studio, and your tasks will give the "entertainment." He won't just execute code; he will "pull strings" behind the scenes 
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [reyamira/models](https://github.com/reyamira/models) - TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.
@@ -1650,13 +1661,12 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [OpenCSGs/csghub](https://github.com/OpenCSGs/csghub) - CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain fu
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -1788,6 +1798,7 @@
 
 ## mcp 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [getagentseal/awesome-mcp-security](https://github.com/getagentseal/awesome-mcp-security) - Security scores for 800+ MCP servers. 9 analyzers scan for prompt injection, toxic flows, and attack surface risks. Updated daily. 🛡️
@@ -1913,6 +1924,7 @@
 
 ## no-code 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1968,7 +1980,7 @@
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -2065,6 +2077,8 @@
 
 ## others 
 
+- [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
+- [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - [Rakile/NeuralCompanion](https://github.com/Rakile/NeuralCompanion) - 
 - [robsmallridge/GroveMap](https://github.com/robsmallridge/GroveMap) - Docker container to view disk usage by file size
 - [mrYouki/YoukiDex-Android-Desktop](https://github.com/mrYouki/YoukiDex-Android-Desktop) - YoukiDEX  is a full Android desktop experience built on top of Smart Dock — no launcher swap needed. Runs as a system overlay with full UI customization, persistent dock, notification panel, icon pack
@@ -2072,7 +2086,7 @@
 - [MrCrin/swiish](https://github.com/MrCrin/swiish) - Open-source digital business card platform with QR codes and PWA support
 - [smolgrrr/awesome-umbrel](https://github.com/smolgrrr/awesome-umbrel) - A curated list of community stores and apps on Umbrel
 - [raccommode/P-StreamRec](https://github.com/raccommode/P-StreamRec) - Complete application for automatic recording of Chaturbate and m3u8 streams, All-in-one Docker container to watch and automatically record HLS/m3u8 streams, with a modern web interface.
-- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos & Google Takeout. The Tool supports multiple account
+- [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) - This tool has been designed to Interact and Manage different Photo Services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, Google Takeout & Apple iCloud Takeout. The Tool sup
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
 - [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) - Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, 
 - [MindlessLeader/DSiDesk](https://github.com/MindlessLeader/DSiDesk) - An app that allows you to view your Linux desktop on a Nintendo DSi
@@ -2085,7 +2099,7 @@
 - [MaJoRX0/Tokyo-Downloader](https://github.com/MaJoRX0/Tokyo-Downloader) - Tokyo Downloader is a Python-based tool that fetches anime episode download links from TokyoInsider and saves them in a text file for bulk downloading via Internet Download Manager (IDM).
 - [o7-machinehum/flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat) - Linux based WiFi pentesting device for the Flipper Zero.
 - [gsxdsm/awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip) - Collection of the best Paperclip plugins
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [fireshaper/Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create & scan cute qr codes easily 👾
 - [pacnpal/compressatorium](https://github.com/pacnpal/compressatorium) - The laboratory for ROM compression. Self-hosted web UI that converts to Z3DS, CHD, RVZ, and other formats.
@@ -2228,7 +2242,6 @@
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [cmspam/incus-docker](https://github.com/cmspam/incus-docker) - A project to run incus in docker/podman
-- [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile + docker-compose.yaml to easily deploy any repo/project.
 - [bongobongo2020/nexrift](https://github.com/bongobongo2020/nexrift) - 
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2373,12 +2386,12 @@
 
 ## penetration-testing 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [MaheshTechnicals/Kali-Linux-Termux](https://github.com/MaheshTechnicals/Kali-Linux-Termux) - An advanced, automated installer to run Kali Linux NetHunter (Rootless) on Android using Termux — with GUI, sound support, smart updates, and zero root required.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -2411,7 +2424,7 @@
 ## privacy 
 
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - She's the AI agent you come home to.
 - [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant) - ⚡ A local, privacy-focused AI desktop assistant for Windows. Control your PC remotely via Telegram or locally with Voice commands. Powered by Ollama.
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
@@ -2423,6 +2436,7 @@
 
 ## productivity 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [miclaldogan/bantzv2](https://github.com/miclaldogan/bantzv2) - Bantz won't be a helper; he will be your Host. Your computer will become his studio, and your tasks will give the "entertainment." He won't just execute code; he will "pull strings" behind the scenes 
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
@@ -2703,6 +2717,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -2712,7 +2727,7 @@
 
 ## security-tools 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -2735,7 +2750,7 @@
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - Grimmory is an independent community fork of Booklore.
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [peterthepeter/groly](https://github.com/peterthepeter/groly) - Groly – A lightweight self-hosted grocery list, supplement tracker & meal planner PWA
@@ -2934,6 +2949,7 @@
 
 ## telegram-bot 
 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant) - ⚡ A local, privacy-focused AI desktop assistant for Windows. Control your PC remotely via Telegram or locally with Voice commands. Powered by Ollama.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
@@ -3072,6 +3088,7 @@
 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -3140,6 +3157,7 @@
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
@@ -3147,7 +3165,7 @@
 - [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suite for Windows with Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN , IRCNN, GFPGAN & RIFE. Upscaling, face restoration, frame interpolation, denoising, batch processing & GPU acceleration in one too
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 
