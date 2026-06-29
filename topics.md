@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -265,8 +266,16 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [BigSweetPotatoStudio/HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) - HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol.
 
+## agent-skills 
+
+- [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+
 ## agents 
 
+- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [fronalabs/frona](https://github.com/fronalabs/frona) - Frona is a personal AI assistant. You create autonomous agents, give them tools, and talk to them through a chat interface. Agents act on their own. They browse the web, run code, develop applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -287,7 +296,9 @@
 
 ## ai 
 
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
+- [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [fronalabs/frona](https://github.com/fronalabs/frona) - Frona is a personal AI assistant. You create autonomous agents, give them tools, and talk to them through a chat interface. Agents act on their own. They browse the web, run code, develop applications
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
@@ -377,6 +388,7 @@
 
 ## ai-agents 
 
+- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -387,7 +399,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude 
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -409,6 +421,7 @@
 
 ## android 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -417,7 +430,6 @@
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [rafaelvcaetano/melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) - Android port of melonDS
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-- [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [Divinelink/scenepeek-android](https://github.com/Divinelink/scenepeek-android) - ScenePeek is a TMDB and Jellyseerr / Overseerr / Seerr client for android and iOS.
@@ -497,6 +509,7 @@
 
 ## awesome 
 
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
@@ -558,6 +571,7 @@
 
 ## awesome-list 
 
+- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [getagentseal/awesome-mcp-security](https://github.com/getagentseal/awesome-mcp-security) - Security scores for 800+ MCP servers. 9 analyzers scan for prompt injection, toxic flows, and attack surface risks. Updated daily. 🛡️
@@ -766,7 +780,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program.
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude 
 - [joowani/colorpedia](https://github.com/joowani/colorpedia) - Command-line tool for looking up colors and palettes.
 - [AzureHound/jelly](https://github.com/AzureHound/jelly) - 🪼 Explore & Stream Jellyfin via CLI
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -909,6 +923,7 @@
 
 ## deep-learning 
 
+- [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Aatricks/LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next) - Fastest Diffusion backend, WebUI, server. Pushing implementation and discovery of optimizations techniques 🚀
@@ -944,7 +959,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude 
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -989,6 +1004,7 @@
 
 ## docker 
 
+- [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
@@ -1003,10 +1019,10 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [peterthepeter/groly](https://github.com/peterthepeter/groly) - Groly – A lightweight self-hosted grocery list, supplement tracker & meal planner PWA
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [anibridge/anibridge](https://github.com/anibridge/anibridge) - The smart way to keep your anime lists perfectly synchronized
@@ -1150,7 +1166,7 @@
 
 ## fastapi 
 
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 
@@ -1175,14 +1191,12 @@
 ## flutter 
 
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## flutter-apps 
 
-- [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## font 
@@ -1237,7 +1251,6 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [Aatricks/LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next) - Fastest Diffusion backend, WebUI, server. Pushing implementation and discovery of optimizations techniques 🚀
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
@@ -1382,6 +1395,7 @@
 
 ## hacking-tool 
 
+- [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [vs4vijay/SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi) - A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife
 
 ## hacking-tools 
@@ -1456,7 +1470,7 @@
 
 ## image-processing 
 
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [SoftCreatR/imei](https://github.com/SoftCreatR/imei) - IMEI - ImageMagick Easy Install
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
@@ -1661,7 +1675,6 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
@@ -1786,6 +1799,7 @@
 
 ## markdown 
 
+- [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
@@ -1794,6 +1808,7 @@
 
 ## material-design 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 
 ## mcp 
@@ -1858,7 +1873,6 @@
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols
 - [peguerosdc/subplayer](https://github.com/peguerosdc/subplayer) - A music player frontend compatible with Subsonic backends
 - [shrimpza/aurial](https://github.com/shrimpza/aurial) - A browser client for streaming music from servers implementing the Subsonic API
-- [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [Stannnnn/jelly-app](https://github.com/Stannnnn/jelly-app) - A lightweight & elegant music interface for Jellyfin.
@@ -1896,6 +1910,7 @@
 
 ## nextjs 
 
+- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -1980,7 +1995,7 @@
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -1994,7 +2009,6 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program.
 - [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz) - A terminal-based wallpaper selector and system theme manager. It also enables browsing and downloading wallpapers from various wallpaper collection repositories on GitHub.
-- [Harish-Srinivas-07/hivefy](https://github.com/Harish-Srinivas-07/hivefy) - Hivefy - Ad-free, offline-ready music streaming app with Spotify-style interface and JioSaavn API.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - ⭐️ A curated list of awesome forensic analysis tools and resources
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
@@ -2077,6 +2091,8 @@
 
 ## others 
 
+- [roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) - A mod that allows you to use custom images as pwnagotchi Faces with transparency feature (.png) and themed plugins.
+- [umutkrdgg/Umuts-Slimagotchi](https://github.com/umutkrdgg/Umuts-Slimagotchi) - Guide to build slim-pwnagotchi/slimagotchi
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - [Rakile/NeuralCompanion](https://github.com/Rakile/NeuralCompanion) - 
@@ -2378,6 +2394,7 @@
 
 ## package-manager 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
 - [tareqimbasher/cargo-seek](https://github.com/tareqimbasher/cargo-seek) - A terminal user interface for searching, adding and installing cargo crates.
@@ -2386,6 +2403,7 @@
 
 ## penetration-testing 
 
+- [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
@@ -2424,7 +2442,7 @@
 ## privacy 
 
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - She's the AI agent you come home to.
 - [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant) - ⚡ A local, privacy-focused AI desktop assistant for Windows. Control your PC remotely via Telegram or locally with Voice commands. Powered by Ollama.
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
@@ -2477,7 +2495,7 @@
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform tool for streaming and downloading anime from aniworld.to, as well as series from s.to. It runs on Windows, macOS, and Linux, providing a seamless experience fo
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - She's the AI agent you come home to.
 - [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant) - ⚡ A local, privacy-focused AI desktop assistant for Windows. Control your PC remotely via Telegram or locally with Voice commands. Powered by Ollama.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
@@ -2605,6 +2623,7 @@
 
 ## raspberry-pi 
 
+- [procount/pinn](https://github.com/procount/pinn) - An enhanced Operating System installer for the Raspberry Pi
 - [BansheeTech/HomeDockOS](https://github.com/BansheeTech/HomeDockOS) - An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a curated app store and seamless multi-platform support, it’s designed to empower your personal cloud on 
 - [vs4vijay/SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi) - A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -2615,10 +2634,11 @@
 
 ## react 
 
+- [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2737,6 +2757,7 @@
 
 ## self-hosted 
 
+- [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [TechSquidTV/Cliparr](https://github.com/TechSquidTV/Cliparr) - Create clips from media on your personal media server
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr) - A self-hosted media dashboard unifying Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent and TMDb in a single Symfony 8 interface. One search bar across the local library and TMDb, one calendar mergin
@@ -2750,13 +2771,13 @@
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - Grimmory is an independent community fork of Booklore.
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [peterthepeter/groly](https://github.com/peterthepeter/groly) - Groly – A lightweight self-hosted grocery list, supplement tracker & meal planner PWA
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) - A modern, responsive web interface for managing CrowdSec alerts and decisions.
@@ -2773,7 +2794,7 @@
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
 - [mkbula/qbitwebui](https://github.com/mkbula/qbitwebui) - A modern web interface for managing qBittorrent instances. Supports mobile view with PWA. Features cross seed and many more tools.
 - [peguerosdc/subplayer](https://github.com/peguerosdc/subplayer) - A music player frontend compatible with Subsonic backends
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
@@ -3088,7 +3109,7 @@
 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -3157,7 +3178,7 @@
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
@@ -3165,7 +3186,7 @@
 - [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suite for Windows with Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN , IRCNN, GFPGAN & RIFE. Upscaling, face restoration, frame interpolation, denoising, batch processing & GPU acceleration in one too
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
+- [the-database/mpv-AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) - Real-time anime upscaling to 4K in mpv with lightweight super-resolution models
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 
