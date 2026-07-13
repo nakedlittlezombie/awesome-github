@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [gantasmo/theDAW-XR](https://github.com/gantasmo/theDAW-XR) - theDAW-XR pairs a Meta Quest 3 with theDAW for live music performance: hand-tracked MIDI control, mixed-reality passthrough livestreaming into a VJ engine, co-located XR performance, and a head-mounte
 - [SiroxCW/Jellyfin-AniWorld-Downloader](https://github.com/SiroxCW/Jellyfin-AniWorld-Downloader) - A Jellyfin plugin to browse and download animes & series directly, fully integrated into your media server. If you enjoy using it, feel free to leave a ⭐!
 - [fireshaper/Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily
 - [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame) - 
@@ -132,7 +133,6 @@
 - [IT-BAER/proxmorph](https://github.com/IT-BAER/proxmorph) - CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector. Catppuccin, Dracula, Nord, Gruvbox, Solarized, Tokyo Night, UniFi, and more.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [MakD/zombie-release](https://github.com/MakD/zombie-release) - A theme for Jellyfin 10.9.x combining the best from the Public Themes
-- [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 
 ## Cuda 
 
@@ -199,7 +199,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [Finsys/hawser](https://github.com/Finsys/hawser) - The agent for Dockhand
 - [MattiaPun/SubTUI](https://github.com/MattiaPun/SubTUI) - A lightweight Subsonic TUI music player built in Go with scrobbling support.
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
@@ -217,7 +217,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -233,12 +233,12 @@
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [indietool/cli](https://github.com/indietool/cli) - An all-in-one tool for unified infrastructure management
 - [joshi4/splash](https://github.com/joshi4/splash) - Add color to your logs
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -282,7 +282,6 @@
 - [ObviousViking/Artillery](https://github.com/ObviousViking/Artillery) - A web-ui for gallery-dl
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 
 ## Java 
@@ -346,6 +345,7 @@
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [LykosAI/SMChromeExtension](https://github.com/LykosAI/SMChromeExtension) - A chrome extension that adds a download button to civitai.com to download models directly into Stability Matrix
+- [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [hoangsonww/Image-Video-Tools](https://github.com/hoangsonww/Image-Video-Tools) - 📸 Welcome to the Image & Video Tools: Your go-to suite for managing media! Effortlessly resize, crop, and edit images and videos with our versatile tools. Experience seamless media management with pow
@@ -530,13 +530,13 @@
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [MaJoRX0/Tokyo-Downloader](https://github.com/MaJoRX0/Tokyo-Downloader) - Tokyo Downloader is a Python-based tool that fetches anime episode download links from TokyoInsider and saves them in a text file for bulk downloading via Internet Download Manager (IDM).
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform tool for streaming and downloading content from AniWorld, SerienStream, MegaKino, and Hanime, with more support coming in the future. It runs on Windows, macOS,
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform tool for streaming and downloading content from AniWorld, Hanime, MangaFire, MegaKino, and SerienStream, with more support coming in the future. If you enjoy us
 - [o7-machinehum/flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat) - Linux based WiFi pentesting device for the Flipper Zero.
 - [pacnpal/compressatorium](https://github.com/pacnpal/compressatorium) - The laboratory for ROM compression. Self-hosted web UI that converts to Z3DS, CHD, RVZ, and other formats.
 - [JoyNath1337/Fitgirl-Easy-Downloader](https://github.com/JoyNath1337/Fitgirl-Easy-Downloader) - This Tool Helps To Download Multiple Files Easily From fitgirl-repacks.site Through fuckingfast.co
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [SpaceinvaderOne/a-eye](https://github.com/SpaceinvaderOne/a-eye) - Self-hosted AI photo intelligence tool. Uses local vision models via Ollama to describe, tag, rename, and search your photos. No cloud needed.
-- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports close to 3,000 conversions!
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 
 - [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
@@ -557,6 +557,7 @@
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
@@ -745,6 +746,7 @@
 
 ## Rust 
 
+- [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [killown/flux](https://github.com/killown/flux) - A blazingly fast, multi-threaded Linux file manager built with Rust and GTK4/Libadwaita. Features a reactive architecture via Relm4, utilizing Rayon for parallel file processing and Tokio for async I/
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [boquila/boquilahub](https://github.com/boquila/boquilahub) - AIs for nature
@@ -908,6 +910,9 @@
 
 ## TypeScript 
 
+- [arandevcode/opencode-plugins](https://github.com/arandevcode/opencode-plugins) - Public plugins by arandevcode
+- [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
+- [gantasmo/theDAW](https://github.com/gantasmo/theDAW) - Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta RT2, Suno API, Chimera track fusion, Demucs stems, MIDI generate/notate, img &gt; spectrogra
 - [techieanant/wamr](https://github.com/techieanant/wamr) - WAMR is a self-hosted, open-source WhatsApp bot that uses the WhatsApp Web API to allow users to request movies and TV shows via natural conversation, automatically processing these requests by search
 - [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -926,7 +931,7 @@
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - File processing for privacy-focussed use. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, airgap ready. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create & scan cute qr codes easily 👾
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
@@ -938,7 +943,7 @@
 - [Flo0806/dm-hero](https://github.com/Flo0806/dm-hero) - 
 - [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
 - [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) - A modern, responsive web interface for managing CrowdSec alerts and decisions.
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [ejaz-karim/anilist-releases](https://github.com/ejaz-karim/anilist-releases) - SeaDex and Nyaa for AniList
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
@@ -951,7 +956,6 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ThatOneCalculator/ollamamodelupdater](https://github.com/ThatOneCalculator/ollamamodelupdater) - Update your Ollama models to their latest versions with Bun!
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [amirrezasalimi/comfyEz](https://github.com/amirrezasalimi/comfyEz) - feature-rich web interface designed to interact with a local ComfyUI
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -997,6 +1001,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [Supernova3339/changerawr](https://github.com/Supernova3339/changerawr) - Changelog software for everyone - Ship, Change, Rawr 🦖
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Dan6erbond/jolt](https://github.com/Dan6erbond/jolt) - The social hub for your media server. Rate, review and recommend movies and shows, as well as manage your watchlist, follow friends and more.
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
