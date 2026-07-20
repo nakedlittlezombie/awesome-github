@@ -146,7 +146,6 @@
 
 ## Dockerfile 
 
-- [rtedpro-cpu/dockermox](https://github.com/rtedpro-cpu/dockermox) - Run Proxmox VE in a docker container
 - [cmspam/incus-docker](https://github.com/cmspam/incus-docker) - A project to run incus in docker/podman
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
@@ -199,7 +198,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [Finsys/hawser](https://github.com/Finsys/hawser) - The agent for Dockhand
 - [MattiaPun/SubTUI](https://github.com/MattiaPun/SubTUI) - A lightweight Subsonic TUI music player built in Go with scrobbling support.
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
@@ -246,7 +245,7 @@
 - [11notes/docker-socket-proxy](https://github.com/11notes/docker-socket-proxy) - Access your docker socket safely as read-only, rootless and distroless
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [mentholmike/wagmios](https://github.com/mentholmike/wagmios) - Give your Agent a Homelab
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge) - AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools.
@@ -278,7 +277,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Xypher7/ai-image-metadata-editor](https://github.com/Xypher7/ai-image-metadata-editor) - 
 - [Tanq16/local-content-share](https://github.com/Tanq16/local-content-share) - Self-hosted app with browser frontend that enables sharing and storing text snippets and files. Also includes a markdown and rich text scratchpad.
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [ObviousViking/Artillery](https://github.com/ObviousViking/Artillery) - A web-ui for gallery-dl
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
@@ -287,13 +285,14 @@
 ## Java 
 
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - Grimmory is an independent community fork of Booklore.
+- [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks
 - [egg82/fetcharr](https://github.com/egg82/fetcharr) - hunts for missing or upgradable media in your *arr stack
 - [CherryPill/ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - ASCII art generator for images
 - [RPTools/TokenTool](https://github.com/RPTools/TokenTool) - TokenTool removes much of the tedium from creating tokens for use with MapTool or your favorite online gaming application.  Just drag an image into the background, select a frame, zoom and pan to suit
 
 ## JavaScript 
 
+- [lklynet/hypermind-swarm](https://github.com/lklynet/hypermind-swarm) - Decentralized. Ephemeral. Unfiltered.
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A script I wrote to put a cat on my site.
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (◕‿‿◕) - Pwnagotchi 64-Bit AI Edition
@@ -474,6 +473,7 @@
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [creativetimofficial/free-n8n-workflow-templates-collection](https://github.com/creativetimofficial/free-n8n-workflow-templates-collection) - Free N8N Workflow Templates Collection
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [suncloudsmoon/awesome-open-source-ai](https://github.com/suncloudsmoon/awesome-open-source-ai) - A curated list of useful open-source AI resources
 - [hack-and-slash/awesome-tabletop-rpg](https://github.com/hack-and-slash/awesome-tabletop-rpg) - Tabletop RPG Tools, materials and projects
@@ -515,6 +515,7 @@
 
 ## Python 
 
+- [GethosTheWalrus/proxmox-mcp](https://github.com/GethosTheWalrus/proxmox-mcp) - 
 - [Tareku99/anilist-mal-sync](https://github.com/Tareku99/anilist-mal-sync) - AniList ↔ MyAnimeList sync service with OAuth, conflict resolution, and Docker-friendly deployment.
 - [Ashish-Patnaik/kokoclone](https://github.com/Ashish-Patnaik/kokoclone) - Voice Cloning, Now Inside Kokoro. Generate natural multilingual speech and clone any target voice with ease.
 - [roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) - A mod that allows you to use custom images as pwnagotchi Faces with transparency feature (.png) and themed plugins.
@@ -816,6 +817,9 @@
 
 ## Shell 
 
+- [djparentx/R36S-dArkOS-Enhanced-Setup-Tool](https://github.com/djparentx/R36S-dArkOS-Enhanced-Setup-Tool) - A collection of tools to assist in installing dArkOS/RE on the R36S and variants.
+- [djparentx/R36-Backup-and-Migration-Assistant](https://github.com/djparentx/R36-Backup-and-Migration-Assistant) - A user-friendly script that backs up all crucial settings and game data in a few clicks, enabling easy migration to a new device or OS.
+- [Jason3x/ES-Icons-Installer](https://github.com/Jason3x/ES-Icons-Installer) - ES Icons Installer is a Bash script designed for darkos4clone and dArkOS RE that allows easy to add Wifi and Bluetooth icons in emulationsation.
 - [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi's Plugins, flavours and more resources.
 - [dockur/zima](https://github.com/dockur/zima) - ZimaOS inside a Docker container.
 - [dockur/casa](https://github.com/dockur/casa) - CasaOS inside a Docker container.
@@ -841,6 +845,7 @@
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [hollowaykeanho/Upscaler](https://github.com/hollowaykeanho/Upscaler) - A consolidation of various compiled open-source AI image/video upscaling product for a working CLI friendly image and video upscaling program.
 - [robzolkos/shout](https://github.com/robzolkos/shout) - Fast Speech to Text for Omarchy
+- [rtedpro-cpu/dockermox](https://github.com/rtedpro-cpu/dockermox) - Run Proxmox VE in a docker container
 - [mahaveergurjar/Hyprlock-Dots](https://github.com/mahaveergurjar/Hyprlock-Dots) - simple stylish hyprlock conf with scripts music , weather and battery widget
 - [Nurysso/Hecate](https://github.com/Nurysso/Hecate) - Experience hyprland like never before
 - [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
@@ -931,7 +936,7 @@
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create & scan cute qr codes easily 👾
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
