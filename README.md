@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [Jellman86/optimisarr](https://github.com/Jellman86/optimisarr) - Safety-first self-hosted FFmpeg media-library optimiser for Plex, Jellyfin, and Emby, with verified CPU/GPU transcoding and rollback.
 - [gantasmo/theDAW-XR](https://github.com/gantasmo/theDAW-XR) - theDAW-XR pairs a Meta Quest 3 with theDAW for live music performance: hand-tracked MIDI control, mixed-reality passthrough livestreaming into a VJ engine, co-located XR performance, and a head-mounte
 - [SiroxCW/Jellyfin-AniWorld-Downloader](https://github.com/SiroxCW/Jellyfin-AniWorld-Downloader) - A Jellyfin plugin to browse and download animes & series directly, fully integrated into your media server. If you enjoy using it, feel free to leave a ⭐!
 - [fireshaper/Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily
@@ -98,6 +99,8 @@
 
 ## C++ 
 
+- [therezor/hazke](https://github.com/therezor/hazke) - An open-universe space-sim game for the M5Stack Cardputer - trade, fight and exploreWritten in C++.
+- [wisnc/stellar-map](https://github.com/wisnc/stellar-map) - a Stellarium inspired planetarium firmware for the M5Stack Cardputer ADV
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [i-am-shodan/USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -221,7 +224,7 @@
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [diogovalentte/mantium](https://github.com/diogovalentte/mantium) - Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
@@ -270,7 +273,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [biagiomaf/smart-comfyui-gallery](https://github.com/biagiomaf/smart-comfyui-gallery) - SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder. Runs independently from ComfyUI. Advanced file manager, search by prompt, model, LoRA and comme
+- [biagiomaf/smart-comfyui-gallery](https://github.com/biagiomaf/smart-comfyui-gallery) - SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI. Generate without opening ComfyUI. Query your gallery with AI, in natural language. Advanced file manager, filter by 
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [TheInfamousToTo/hub-helper](https://github.com/TheInfamousToTo/hub-helper) - Hub Helper is a streamlined deployment automation tool designed to simplify pushing projects to GitHub and Docker Hub. It features a modern web interface, persistent authentication, and containerized 
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
@@ -313,6 +316,7 @@
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [lklynet/hypermind](https://github.com/lklynet/hypermind) - The High-Availability Solution to a Problem That Doesn't Exist.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
+- [vrgamegirl19/comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 - [TheAwaken1/my-yt](https://github.com/TheAwaken1/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [sk-ruban/contour](https://github.com/sk-ruban/contour) - convert 2d maps to flyable 3d terrain
 - [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude 
@@ -429,6 +433,7 @@
 
 ## Others 
 
+- [ZitaoTech/BB9900-USB_BLE_Keyboard](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard) - An ultra portable Keyboard Mouse Combo using the original Blackberry 9900 keyboard
 - [umutkrdgg/Umuts-Slimagotchi](https://github.com/umutkrdgg/Umuts-Slimagotchi) - Guide to build slim-pwnagotchi/slimagotchi
 - [smolgrrr/awesome-umbrel](https://github.com/smolgrrr/awesome-umbrel) - A curated list of community stores and apps on Umbrel
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
@@ -531,7 +536,7 @@
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [MaJoRX0/Tokyo-Downloader](https://github.com/MaJoRX0/Tokyo-Downloader) - Tokyo Downloader is a Python-based tool that fetches anime episode download links from TokyoInsider and saves them in a text file for bulk downloading via Internet Download Manager (IDM).
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform tool for streaming and downloading content from AniWorld, Hanime, MangaFire, MegaKino, and SerienStream, with more support coming in the future. If you enjoy us
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
 - [o7-machinehum/flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat) - Linux based WiFi pentesting device for the Flipper Zero.
 - [pacnpal/compressatorium](https://github.com/pacnpal/compressatorium) - The laboratory for ROM compression. Self-hosted web UI that converts to Z3DS, CHD, RVZ, and other formats.
 - [JoyNath1337/Fitgirl-Easy-Downloader](https://github.com/JoyNath1337/Fitgirl-Easy-Downloader) - This Tool Helps To Download Multiple Files Easily From fitgirl-repacks.site Through fuckingfast.co
@@ -551,7 +556,7 @@
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [RaimuV/Minerva_scraper](https://github.com/RaimuV/Minerva_scraper) - A simple python scraper for minerva website to output a json file for your project.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -566,7 +571,6 @@
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
-- [vrgamegirl19/comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [carlospuenteg/File-Injector](https://github.com/carlospuenteg/File-Injector) - File Injector is a script that allows you to store any file in an image using steganography
 - [TotallyNotChase/glitch-this](https://github.com/TotallyNotChase/glitch-this) - :camera: Glitchify images and GIF - with highly customizable options!
@@ -610,7 +614,7 @@
 - [darkdragn/party](https://github.com/darkdragn/party) - A quick *.party downloader (Update, they changed the site root to .su works for kemono.su and coomer.su )
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [kgarner7/navidrome-artistfetch](https://github.com/kgarner7/navidrome-artistfetch) - Python script to refresh Navidrome artist images/info
 - [openzim/zimit](https://github.com/openzim/zimit) - Make a ZIM file from any Web site and surf offline!
@@ -653,7 +657,7 @@
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [Ivan-Ayub97/Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio) - Suite for Windows with Real-ESRGAN, RealESRNet, RealESRAnime, BSRGAN , IRCNN, GFPGAN & RIFE. Upscaling, face restoration, frame interpolation, denoising, batch processing & GPU acceleration in one too
 - [Firetheft/ComfyUI_Civitai_Gallery](https://github.com/Firetheft/ComfyUI_Civitai_Gallery) - ComfyUI Civitai Gallery is a powerful custom node for ComfyUI that integrates a seamless image and models browser for the Civitai website directly into your workflow.
-- [Rishabh-Bajpai/Chanakya-Local-Friend](https://github.com/Rishabh-Bajpai/Chanakya-Local-Friend) - Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates 
+- [samosa-ai-com/Chanakya-Local-Friend](https://github.com/samosa-ai-com/Chanakya-Local-Friend) - Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates 
 - [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 - [arinbjornk/llmtop](https://github.com/arinbjornk/llmtop) - A system monitoring tool powered by LLMs that provides real-time insights about your system's performance
 - [tooyipjee/ollamacode_cli](https://github.com/tooyipjee/ollamacode_cli) - 
@@ -731,7 +735,7 @@
 ## QML 
 
 - [Avik43218/theme-lgl](https://github.com/Avik43218/theme-lgl) - A monochrome liquid-glass like theme for SDDM Login
-- [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM) - A very customizable SDDM theme that actually looks good.
+- [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM) - A very customizable SDDM theme.
 - [aczw/sddm-theme-corners](https://github.com/aczw/sddm-theme-corners) - customizable SDDM theme that puts stuff on your screen corners
 - [Keyitdev/sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme) - Series of modern looking themes for SDDM.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
@@ -747,6 +751,8 @@
 
 ## Rust 
 
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [framicheli/av1converter](https://github.com/framicheli/av1converter) - A simple TUI video converter for the AV1 codec
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [killown/flux](https://github.com/killown/flux) - A blazingly fast, multi-threaded Linux file manager built with Rust and GTK4/Libadwaita. Features a reactive architecture via Relm4, utilizing Rayon for parallel file processing and Tokio for async I/
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -817,6 +823,7 @@
 
 ## Shell 
 
+- [Graywizard888/Enhancify](https://github.com/Graywizard888/Enhancify) - The only custom Revancify with extra features and more customizations
 - [djparentx/R36S-dArkOS-Enhanced-Setup-Tool](https://github.com/djparentx/R36S-dArkOS-Enhanced-Setup-Tool) - A collection of tools to assist in installing dArkOS/RE on the R36S and variants.
 - [djparentx/R36-Backup-and-Migration-Assistant](https://github.com/djparentx/R36-Backup-and-Migration-Assistant) - A user-friendly script that backs up all crucial settings and game data in a few clicks, enabling easy migration to a new device or OS.
 - [Jason3x/ES-Icons-Installer](https://github.com/Jason3x/ES-Icons-Installer) - ES Icons Installer is a Bash script designed for darkos4clone and dArkOS RE that allows easy to add Wifi and Bluetooth icons in emulationsation.
@@ -947,7 +954,7 @@
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
 - [Flo0806/dm-hero](https://github.com/Flo0806/dm-hero) - 
 - [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.
-- [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) - A modern, responsive web interface for managing CrowdSec alerts and decisions.
+- [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) - A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [ejaz-karim/anilist-releases](https://github.com/ejaz-karim/anilist-releases) - SeaDex and Nyaa for AniList
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -959,7 +966,7 @@
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ThatOneCalculator/ollamamodelupdater](https://github.com/ThatOneCalculator/ollamamodelupdater) - Update your Ollama models to their latest versions with Bun!
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [amirrezasalimi/comfyEz](https://github.com/amirrezasalimi/comfyEz) - feature-rich web interface designed to interact with a local ComfyUI
@@ -976,7 +983,7 @@
 - [asalimonov/authelia-admin](https://github.com/asalimonov/authelia-admin) - Administration control panel for Authelia. Management of users, groups, TOTP devices, banned IPs, i18n.
 - [limkcreply/open-gemini-cli](https://github.com/limkcreply/open-gemini-cli) - Extended fork of Gemini CLI with local LLM support (MLX, llama.cpp, vLLM), OpenAI, and Claude integration
 - [fccview/jotty](https://github.com/fccview/jotty) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
-- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing config for your Linux desktop
+- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。
 - [wladimiiir/albumate](https://github.com/wladimiiir/albumate) - An AI-powered desktop app for effortless photo organization.
@@ -984,6 +991,7 @@
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
+- [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile + docker-compose.yaml to easily deploy any repo/project.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -991,7 +999,7 @@
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [Stannnnn/jelly-app](https://github.com/Stannnnn/jelly-app) - A lightweight & elegant music interface for Jellyfin.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
