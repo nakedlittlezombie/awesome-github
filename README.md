@@ -143,6 +143,7 @@
 - [IT-BAER/proxmorph](https://github.com/IT-BAER/proxmorph) - CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector. Catppuccin, Dracula, Nord, Gruvbox, Solarized, Tokyo Night, UniFi, and more.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [MakD/zombie-release](https://github.com/MakD/zombie-release) - A theme for Jellyfin 10.9.x combining the best from the Public Themes
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 
 ## Cuda 
 
@@ -181,6 +182,7 @@
 
 ## Go 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [KrishnaSSH/gophertube](https://github.com/KrishnaSSH/gophertube) - A modern terminal user interface for searching and watching  YouTube videos using mpv and chafa.
 - [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space
 - [jesposito/shrinkray](https://github.com/jesposito/shrinkray) - Simple, efficient video transcoding for your media library
@@ -260,7 +262,7 @@
 - [11notes/docker-socket-proxy](https://github.com/11notes/docker-socket-proxy) - Access your docker socket safely as read-only, rootless and distroless
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [mentholmike/wagmios](https://github.com/mentholmike/wagmios) - Give your Agent a Homelab
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [insaaniManav/prompt-forge](https://github.com/insaaniManav/prompt-forge) - AI prompt engineering workbench for crafting, testing, and systematically evaluating prompts with powerful analysis tools.
@@ -288,7 +290,6 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [biagiomaf/smart-comfyui-gallery](https://github.com/biagiomaf/smart-comfyui-gallery) - SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI. Generate without opening ComfyUI. Query your gallery with AI, in natural language. Advanced file manager, filter by 
-- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [TheInfamousToTo/hub-helper](https://github.com/TheInfamousToTo/hub-helper) - Hub Helper is a streamlined deployment automation tool designed to simplify pushing projects to GitHub and Docker Hub. It features a modern web interface, persistent authentication, and containerized 
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -310,6 +311,9 @@
 
 ## JavaScript 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [getsubwave/community](https://github.com/getsubwave/community) - The community exchange for SUB/WAVE skills, DJ personas, shows, and the public station directory
@@ -329,7 +333,7 @@
 - [epheterson/Zimi](https://github.com/epheterson/Zimi) - The offline internet — searchable, browsable, and self-updating. A modern server for ZIM files with cross-source search, built-in library management, JSON API and MCP server.
 - [bijanbina/Elastic2025](https://github.com/bijanbina/Elastic2025) - A 2025 Modern Roundcube Dark Theme
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
-- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - AM-GUI is a graphical Front for AM
+- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux.
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [XTREEMMAK/ggrequestz](https://github.com/XTREEMMAK/ggrequestz) - A comprehensive game discovery and request application built with **SvelteKit 5**, featuring intelligent search, user authentication, and multiple integrations.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -462,6 +466,7 @@
 
 ## Others 
 
+- [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 - [the-beating-light-of-the-nail/dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) - 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins
 - [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube) - Prompts and model configs used in my videos.
 - [badmannersteam/murglar-downloads](https://github.com/badmannersteam/murglar-downloads) - Murglar is an Android/Desktop player/downloader for popular music streaming services.
@@ -487,7 +492,7 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [the-database/MangaJaNai](https://github.com/the-database/MangaJaNai) - Upscale manga with AI models
-- [moktavizen/material-darker-jdownloader](https://github.com/moktavizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
+- [isvizen/material-darker-jdownloader](https://github.com/isvizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [ElricLiu/Awesome-One-Click-Deployment](https://github.com/ElricLiu/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
@@ -550,6 +555,8 @@
 
 ## Python 
 
+- [Tobbi99/R36Shell](https://github.com/Tobbi99/R36Shell) - Python-SDL2 Linux Terminal, Editor and PTY for R36S handheld console
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [beer-psi/fakk-u-downloader](https://github.com/beer-psi/fakk-u-downloader) - script to download manga from fakku.net
 - [bsaleh03/ASCII-Condensed-prune-tools](https://github.com/bsaleh03/ASCII-Condensed-prune-tools) - 
 - [Techcrafter/Plymouth-Creator](https://github.com/Techcrafter/Plymouth-Creator) - A tool using GTK3 and Python to easily create your own plymouth boot animations from an .mp4 video or single .png files with a GUI.
@@ -735,7 +742,7 @@
 - [giga-controller/controller](https://github.com/giga-controller/controller) - A chat interface that interacts with all your 3rd party applications
 - [Panchovix/stable-diffusion-webui-reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to translate subtitles (SRT, SSA/ASS, VTT)
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to transcribe and translate subtitles (SRT, SSA/ASS, VTT)
 - [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -799,6 +806,8 @@
 
 ## Rust 
 
+- [ScuttleSE/comicrust](https://github.com/ScuttleSE/comicrust) - 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -860,6 +869,7 @@
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) - CLI Jellyfin Controller Utility for Linux and Windows
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -978,6 +988,7 @@
 
 ## TypeScript 
 
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) - 
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin
 - [withoutbg/withoutbg-inference](https://github.com/withoutbg/withoutbg-inference) - Docker images and FastAPI service for the withoutBG open weights ONNX model (v3).
@@ -1084,7 +1095,6 @@
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
