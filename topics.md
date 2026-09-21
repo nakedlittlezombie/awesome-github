@@ -276,6 +276,7 @@
 
 ## agent-skills 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
@@ -304,6 +305,7 @@
 
 ## ai 
 
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space
 - [Bria-AI/RMBG-2.0](https://github.com/Bria-AI/RMBG-2.0) - Bria RMBG 2.0 - image background removee
 - [getsubwave/community](https://github.com/getsubwave/community) - The community exchange for SUB/WAVE skills, DJ personas, shows, and the public station directory
@@ -404,6 +406,8 @@
 
 ## ai-agents 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
 - [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) - 🧠 Directory of SOUL.md personality files for OpenClaw agents
@@ -511,6 +515,7 @@
 
 ## automation 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
@@ -776,6 +781,8 @@
 
 ## claude 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -793,6 +800,8 @@
 
 ## claude-code 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
@@ -806,6 +815,7 @@
 
 ## cli 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
@@ -982,6 +992,7 @@
 
 ## deep-learning 
 
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [ex18a/pwnagotchi64](https://github.com/ex18a/pwnagotchi64) - (◕‿‿◕) - Pwnagotchi 64-Bit AI Edition
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -1013,6 +1024,8 @@
 
 ## developer-tools 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
@@ -1041,6 +1054,7 @@
 
 ## devops 
 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [DingGuodong/LinuxBashShellScriptForOps](https://github.com/DingGuodong/LinuxBashShellScriptForOps) - Linux Bash Shell Script and Python Script For Ops and Devops
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -1067,6 +1081,7 @@
 
 ## docker 
 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
 - [Jellman86/optimisarr](https://github.com/Jellman86/optimisarr) - Safety-first self-hosted FFmpeg media-library optimiser for Plex, Jellyfin, and Emby, with verified CPU/GPU transcoding and rollback.
@@ -1200,6 +1215,7 @@
 
 - [Sjj1024/PakePlus-Win7](https://github.com/Sjj1024/PakePlus-Win7) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 - [KittyCAD/modeling-app](https://github.com/KittyCAD/modeling-app) - The Zoo Design Studio app.
+- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux.
 - [wladimiiir/albumate](https://github.com/wladimiiir/albumate) - An AI-powered desktop app for effortless photo organization.
 - [victoralvesf/aonsoku](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
 - [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
@@ -1358,6 +1374,7 @@
 
 ## go 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [KrishnaSSH/gophertube](https://github.com/KrishnaSSH/gophertube) - A modern terminal user interface for searching and watching  YouTube videos using mpv and chafa.
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui) - Terminal UI for Proxmox VE
@@ -1382,7 +1399,7 @@
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 
 ## godot 
@@ -1391,6 +1408,7 @@
 
 ## golang 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [KrishnaSSH/gophertube](https://github.com/KrishnaSSH/gophertube) - A modern terminal user interface for searching and watching  YouTube videos using mpv and chafa.
 - [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -1422,7 +1440,7 @@
 - [Dan6erbond/jolt](https://github.com/Dan6erbond/jolt) - The social hub for your media server. Rate, review and recommend movies and shows, as well as manage your watchlist, follow friends and more.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [lovelaze/nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
 
 ## good-first-issue 
@@ -1454,6 +1472,7 @@
 ## gui 
 
 - [Techcrafter/Plymouth-Creator](https://github.com/Techcrafter/Plymouth-Creator) - A tool using GTK3 and Python to easily create your own plymouth boot animations from an .mp4 video or single .png files with a GUI.
+- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux.
 - [TeaM-TL/FotoKilof](https://github.com/TeaM-TL/FotoKilof) - GUI for ImageMagick and Wand or Pillow
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1489,6 +1508,7 @@
 
 ## hacktoberfest 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
@@ -1532,7 +1552,6 @@
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
@@ -1614,6 +1633,7 @@
 
 ## javascript 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -1704,6 +1724,7 @@
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux.
 - [legluondunet/MyLittleLutrisScripts](https://github.com/legluondunet/MyLittleLutrisScripts) - Lutris scripts for old games.
 - [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM) - A very customizable SDDM theme.
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
@@ -1766,6 +1787,8 @@
 
 ## llm 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
@@ -1813,7 +1836,7 @@
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [djcopley/ShellOracle](https://github.com/djcopley/ShellOracle) - A terminal utility for intelligent shell command generation
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
@@ -1871,6 +1894,7 @@
 
 ## macos 
 
+- [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [Obiente/native](https://github.com/Obiente/native) - Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
@@ -1920,6 +1944,7 @@
 
 ## mcp 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -1959,6 +1984,7 @@
 
 ## monitoring 
 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [BrettKinny/tower-dashboard](https://github.com/BrettKinny/tower-dashboard) - TUI monitoring dashboard for Unraid: btop, nvtop, ctop, and fan-status composed in a single tmux window over SSH, launchable from any XDG app launcher.
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
@@ -2063,6 +2089,7 @@
 
 ## nodejs 
 
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [foldergram/foldergram](https://github.com/foldergram/foldergram) - Self-hosted folder-based Instagram-style photo and video gallery app.
@@ -2201,6 +2228,10 @@
 
 ## others 
 
+- [ScuttleSE/comicrust](https://github.com/ScuttleSE/comicrust) - 
+- [Tobbi99/R36Shell](https://github.com/Tobbi99/R36Shell) - Python-SDL2 Linux Terminal, Editor and PTY for R36S handheld console
+- [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
+- [robert-dean/deadair](https://github.com/robert-dean/deadair) - 
 - [beer-psi/fakk-u-downloader](https://github.com/beer-psi/fakk-u-downloader) - script to download manga from fakku.net
 - [bsaleh03/ASCII-Condensed-prune-tools](https://github.com/bsaleh03/ASCII-Condensed-prune-tools) - 
 - [RemmyLee/civitr](https://github.com/RemmyLee/civitr) - Civitai local browser
@@ -2302,7 +2333,6 @@
 - [mmartial/ComfyUI-Nvidia-Docker](https://github.com/mmartial/ComfyUI-Nvidia-Docker) - ComfyUI for NVIDIA GPU in a Docker container with user configurable uid/gid
 - [yetone/alma-releases](https://github.com/yetone/alma-releases) - 
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
-- [Shikakiben/AM-GUI](https://github.com/Shikakiben/AM-GUI) - AM-GUI is a graphical Front for AM
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [XTREEMMAK/ggrequestz](https://github.com/XTREEMMAK/ggrequestz) - A comprehensive game discovery and request application built with **SvelteKit 5**, featuring intelligent search, user authentication, and multiple integrations.
 - [RaimuV/Minerva_scraper](https://github.com/RaimuV/Minerva_scraper) - A simple python scraper for minerva website to output a json file for your project.
@@ -2369,7 +2399,7 @@
 - [the-database/MangaJaNai](https://github.com/the-database/MangaJaNai) - Upscale manga with AI models
 - [ClownsharkBatwing/RES4LYF](https://github.com/ClownsharkBatwing/RES4LYF) - 
 - [Light-x02/ComfyUI-Civitai-Discovery-Hub](https://github.com/Light-x02/ComfyUI-Civitai-Discovery-Hub) - This ComfyUI node lets you browse the Civitai gallery directly within the interface, featuring infinite scroll, advanced filters (including NSFW), and favorites management. It also allows you to retri
-- [moktavizen/material-darker-jdownloader](https://github.com/moktavizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
+- [isvizen/material-darker-jdownloader](https://github.com/isvizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
 - [rndnanthu/wgetGUI](https://github.com/rndnanthu/wgetGUI) - Simple python GUI for downloading files from Open Directory
 - [satya-sovan/docker-autoheal](https://github.com/satya-sovan/docker-autoheal) - 
 - [qwersyk/Newelle-collection](https://github.com/qwersyk/Newelle-collection) - Collection of simple extensions for Newelle.
@@ -2504,7 +2534,7 @@
 - [grokuku/stable-diffusion](https://github.com/grokuku/stable-diffusion) - Easy Image Generation
 - [giga-controller/controller](https://github.com/giga-controller/controller) - A chat interface that interacts with all your 3rd party applications
 - [Panchovix/stable-diffusion-webui-reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge) - 
-- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to translate subtitles (SRT, SSA/ASS, VTT)
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to transcribe and translate subtitles (SRT, SSA/ASS, VTT)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [open-webui/docs](https://github.com/open-webui/docs) - https://docs.openwebui.com
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
@@ -2605,6 +2635,7 @@
 
 ## productivity 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [Eshaan-Nair/ArcRift](https://github.com/Eshaan-Nair/ArcRift) - Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen
@@ -2629,6 +2660,7 @@
 
 ## prompt-engineering 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [thibaultyou/prompt-library](https://github.com/thibaultyou/prompt-library) - AI Prompt Library: Curated prompts with metadata automation, documentation, and dynamic CLI. Execute AI prompts in CI pipelines or local workflows. Customizable toolkit for building AI-powered process
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
@@ -2854,6 +2886,7 @@
 
 ## rust 
 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -2931,6 +2964,7 @@
 
 ## self-hosted 
 
+- [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
 - [Obiente/native](https://github.com/Obiente/native) - Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.
 - [Jellman86/optimisarr](https://github.com/Jellman86/optimisarr) - Safety-first self-hosted FFmpeg media-library optimiser for Plex, Jellyfin, and Emby, with verified CPU/GPU transcoding and rollback.
@@ -2944,6 +2978,7 @@
 - [aicrafted/compote](https://github.com/aicrafted/compote) - Compose Templater - UI for create, validate and manage docker compose based infrastructures
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
 - [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
@@ -3168,6 +3203,7 @@
 
 ## terminal 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
@@ -3238,6 +3274,7 @@
 
 ## tui 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [framicheli/av1converter](https://github.com/framicheli/av1converter) - A TUI and Web UI tool for converting videos to AV1 codec with FFmpeg
