@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -325,7 +326,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
@@ -343,7 +344,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [wladimiiir/albumate](https://github.com/wladimiiir/albumate) - An AI-powered desktop app for effortless photo organization.
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no dependencies.
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
@@ -366,7 +367,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
@@ -403,6 +404,17 @@
 - [nexusjuan12/AetherChat](https://github.com/nexusjuan12/AetherChat) - AetherChat local RVC chat interface for Koboldcpp and OpenAI style API
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+## ai-agent 
+
+- [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+- [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Independent executor–verifier orchestration for software changes.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+- [Correia-jpv/fucking-awesome-ai-tools](https://github.com/Correia-jpv/fucking-awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools. With repository stars⭐ and forks🍴
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 
 ## ai-agents 
 
@@ -519,7 +531,7 @@
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [MarlBurroW/hivekeep](https://github.com/MarlBurroW/hivekeep) - Hivekeep is a self-hosted platform of autonomous, persistent personal AI agents. Your AI team. At home.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
@@ -665,13 +677,13 @@
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 
 ## azure 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [Azure-Samples/dream-team](https://github.com/Azure-Samples/dream-team) - This repo helps you to build a team of AI agents with Autogen
 
 ## backend 
@@ -756,7 +768,7 @@
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [lludlow/autogen-studio](https://github.com/lludlow/autogen-studio) - Autogen studio docker
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -791,7 +803,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Independent executor–verifier orchestration for software changes.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -823,7 +835,7 @@
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -1081,9 +1093,11 @@
 
 ## docker 
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
+- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Self-hosted photo intelligence, enrichment, curation, and automation for your Immich library. Pictaria Server helps you explore and understand your collection, optionally enrich it with AI, review you
 - [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
-- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
+- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Gallery & Viewer with Automatic Directory Scanning.
 - [Jellman86/optimisarr](https://github.com/Jellman86/optimisarr) - Safety-first self-hosted FFmpeg media-library optimiser for Plex, Jellyfin, and Emby, with verified CPU/GPU transcoding and rollback.
 - [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
@@ -1099,7 +1113,7 @@
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
 - [peterthepeter/groly](https://github.com/peterthepeter/groly) - Groly – A lightweight self-hosted grocery list, supplement tracker & meal planner PWA
@@ -1130,7 +1144,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [openzim/zimit](https://github.com/openzim/zimit) - Make a ZIM file from any Web site and surf offline!
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [kRYstall9/docker-surgeon](https://github.com/kRYstall9/docker-surgeon) - Monitor and restart unhealthy, killed, or stopped Docker containers according to a user-defined restart policy, including any dependent containers.
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [tmiland/invidious-updater](https://github.com/tmiland/invidious-updater) - Automatic install and update script for Invidious
@@ -1387,7 +1401,7 @@
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Tanq16/local-content-share](https://github.com/Tanq16/local-content-share) - Self-hosted app with browser frontend that enables sharing and storing text snippets and files. Also includes a markdown and rich text scratchpad.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -1457,7 +1471,7 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
 ## google-cloud 
@@ -1510,7 +1524,7 @@
 
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1562,16 +1576,16 @@
 
 ## html 
 
-- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
+- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Gallery & Viewer with Automatic Directory Scanning.
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 
 ## html-css-javascript 
 
-- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
+- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Gallery & Viewer with Automatic Directory Scanning.
 
 ## html5 
 
-- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
+- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Gallery & Viewer with Automatic Directory Scanning.
 
 ## http 
 
@@ -1683,7 +1697,7 @@
 - [exdx/dcp](https://github.com/exdx/dcp) - docker cp made easy
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -1720,7 +1734,7 @@
 - [Avik43218/theme-lgl](https://github.com/Avik43218/theme-lgl) - A monochrome liquid-glass like theme for SDDM Login
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [SiroxCW/Jellyfin-AniWorld-Downloader](https://github.com/SiroxCW/Jellyfin-AniWorld-Downloader) - A Jellyfin plugin to browse and download animes & series directly, fully integrated into your media server. If you enjoy using it, feel free to leave a ⭐!
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) - Lovingly crafted AppImage tools and resources
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -1897,7 +1911,7 @@
 - [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) - FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
 - [Obiente/native](https://github.com/Obiente/native) - Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -1961,7 +1975,7 @@
 - [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
@@ -1992,7 +2006,7 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -2089,6 +2103,7 @@
 
 ## nodejs 
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -2131,7 +2146,6 @@
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [clarkemedia/email-signature-generator](https://github.com/clarkemedia/email-signature-generator) - Free, open-source email signature generator. Single HTML file, no sign-up, no server.
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [GeiserX/whisper-subs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin for local AI-powered subtitle generation using Whisper - all processing stays on your server
 - [ridafkih/keeper.sh](https://github.com/ridafkih/keeper.sh) - Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
@@ -2183,7 +2197,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -2228,6 +2242,15 @@
 
 ## others 
 
+- [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [CidVonHighwind/pocketfin](https://github.com/CidVonHighwind/pocketfin) - Jellyfin Client for the PSP
+- [P-Adamiec/Free-Games-Claimer-Remaster](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) - A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer
+- [zorcerer/heddohon](https://github.com/zorcerer/heddohon) - Server-rendered music player for Navidrome/Subsonic and Jellyfin libraries
+- [lcdwiki/LCD-show-retropie](https://github.com/lcdwiki/LCD-show-retropie) - 3.2" 3.5" 5.0" 7.0" TFT LCD Retropie driver for the Raspberry PI and PI 2 and PI 3
+- [goodtft/LCD-show](https://github.com/goodtft/LCD-show) - 2.4" 2.8"3.2" 3.5" 5.0" 7.0" TFT LCD driver for the Raspberry PI 3B+/A/A+/B/B+/PI2/ PI3/ZERO/ZERO W
+- [Pipe-Bomb/server](https://github.com/Pipe-Bomb/server) - Self-hostable Pipe Bomb server
+- [FenrisSkoll/hermitage](https://github.com/FenrisSkoll/hermitage) - Self-hosted web frontend for Navidrome/OpenSubsonic.
 - [ScuttleSE/comicrust](https://github.com/ScuttleSE/comicrust) - 
 - [Tobbi99/R36Shell](https://github.com/Tobbi99/R36Shell) - Python-SDL2 Linux Terminal, Editor and PTY for R36S handheld console
 - [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
@@ -2322,7 +2345,7 @@
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
 - [signerless/llm-checker](https://github.com/signerless/llm-checker) - Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can run locally, with full Ollama integration.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written zig
+- [j-c-m/blackcat](https://github.com/j-c-m/blackcat) - blackcat - a modern cat written in rust
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [PanAeon/transg-tui](https://github.com/PanAeon/transg-tui) - Terminal UI for transmission torrent client
 - [andswi/LCaptioner](https://github.com/andswi/LCaptioner) - LCaptioner is local image captioning tool for Pinokio ecosystem. Designed to work with local LM Studio instance.
@@ -2399,7 +2422,7 @@
 - [the-database/MangaJaNai](https://github.com/the-database/MangaJaNai) - Upscale manga with AI models
 - [ClownsharkBatwing/RES4LYF](https://github.com/ClownsharkBatwing/RES4LYF) - 
 - [Light-x02/ComfyUI-Civitai-Discovery-Hub](https://github.com/Light-x02/ComfyUI-Civitai-Discovery-Hub) - This ComfyUI node lets you browse the Civitai gallery directly within the interface, featuring infinite scroll, advanced filters (including NSFW), and favorites management. It also allows you to retri
-- [isvizen/material-darker-jdownloader](https://github.com/isvizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
+- [vizenc/material-darker-jdownloader](https://github.com/vizenc/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker. This theme uses 250+ new icons and has a neutral dark appearance.
 - [rndnanthu/wgetGUI](https://github.com/rndnanthu/wgetGUI) - Simple python GUI for downloading files from Open Directory
 - [satya-sovan/docker-autoheal](https://github.com/satya-sovan/docker-autoheal) - 
 - [qwersyk/Newelle-collection](https://github.com/qwersyk/Newelle-collection) - Collection of simple extensions for Newelle.
@@ -2661,6 +2684,7 @@
 ## prompt-engineering 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://github.com/ThetaCursed/Illustrious-NoobAI-Style-Explorer) - Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized for Illustrious XL and NoobAI-XL models using the Danbooru tagging system.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [thibaultyou/prompt-library](https://github.com/thibaultyou/prompt-library) - AI Prompt Library: Curated prompts with metadata automation, documentation, and dynamic CLI. Execute AI prompts in CI pipelines or local workflows. Customizable toolkit for building AI-powered process
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
@@ -2683,15 +2707,15 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [infinition/bjorn-detector](https://github.com/infinition/bjorn-detector) - Bjorn Detector: One-Click SSH Access to Your Device in a radar style
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [ddxfish/sapphire](https://github.com/ddxfish/sapphire) - She's the AI agent you come home to.
 - [Surajkumar5050/zyron-assistant](https://github.com/Surajkumar5050/zyron-assistant) - ⚡ A local, privacy-focused AI desktop assistant for Windows. Control your PC remotely via Telegram or locally with Voice commands. Powered by Ollama.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2772,7 +2796,7 @@
 ## pytorch 
 
 - [gantasmo/theDAW](https://github.com/gantasmo/theDAW) - Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta RT2, Suno API, Chimera track fusion, Demucs stems, MIDI generate/notate, img &gt; spectrogra
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Aatricks/LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next) - Fastest Diffusion backend, WebUI, server. Pushing implementation and discovery of optimizations techniques 🚀
 - [notAI-tech/fastDeploy](https://github.com/notAI-tech/fastDeploy) - Deploy DL/ ML inference pipelines with minimal extra code.
@@ -2964,8 +2988,9 @@
 
 ## self-hosted 
 
+- [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Self-hosted photo intelligence, enrichment, curation, and automation for your Immich library. Pictaria Server helps you explore and understand your collection, optionally enrich it with AI, review you
 - [intelligentwolf/WolfStack](https://github.com/intelligentwolf/WolfStack) - Server management platform for the Wolf software suite
-- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Viewer with Automatic Directory Scanning.
+- [The-Grog/FolderFrame](https://github.com/The-Grog/FolderFrame) - Lightweight Image Gallery & Viewer with Automatic Directory Scanning.
 - [Obiente/native](https://github.com/Obiente/native) - Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.
 - [Jellman86/optimisarr](https://github.com/Jellman86/optimisarr) - Safety-first self-hosted FFmpeg media-library optimiser for Plex, Jellyfin, and Emby, with verified CPU/GPU transcoding and rollback.
 - [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
@@ -2981,7 +3006,7 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
 - [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) - A self-hosted library for your ebooks, comics, and audiobooks
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -3012,7 +3037,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [kRYstall9/docker-surgeon](https://github.com/kRYstall9/docker-surgeon) - Monitor and restart unhealthy, killed, or stopped Docker containers according to a user-defined restart policy, including any dependent containers.
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [gabehf/Koito](https://github.com/gabehf/Koito) - Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL
@@ -3056,6 +3081,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer) - Creates an index of images, queries a local LLM and adds tags to the image metadata
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -3131,9 +3157,10 @@
 
 ## stable-diffusion 
 
+- [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://github.com/ThetaCursed/Illustrious-NoobAI-Style-Explorer) - Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized for Illustrious XL and NoobAI-XL models using the Danbooru tagging system.
 - [diStyApps/seait](https://github.com/diStyApps/seait) - SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [Ikari132/sd-image-info](https://github.com/Ikari132/sd-image-info) - Simple in-browser stable diffusion prompt reader
 - [biagiomaf/smart-comfyui-gallery](https://github.com/biagiomaf/smart-comfyui-gallery) - SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI. Generate without opening ComfyUI. Query your gallery with AI, in natural language. Advanced file manager, filter by 
@@ -3281,7 +3308,7 @@
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [miclaldogan/bantzv2](https://github.com/miclaldogan/bantzv2) - Bantz won't be a helper; he will be your Host. Your computer will become his studio, and your tasks will give the "entertainment." He won't just execute code; he will "pull strings" behind the scenes 
 - [BrettKinny/tower-dashboard](https://github.com/BrettKinny/tower-dashboard) - TUI monitoring dashboard for Unraid: btop, nvtop, ctop, and fan-status composed in a single tmux window over SSH, launchable from any XDG app launcher.
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
 - [reyamira/models](https://github.com/reyamira/models) - TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
 - [shazow/wifitui](https://github.com/shazow/wifitui) - Fast featureful friendly wifi terminal UI. 🛜✨
@@ -3354,7 +3381,7 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [wladimiiir/albumate](https://github.com/wladimiiir/albumate) - An AI-powered desktop app for effortless photo organization.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
@@ -3412,7 +3439,7 @@
 
 - [framicheli/av1converter](https://github.com/framicheli/av1converter) - A TUI and Web UI tool for converting videos to AV1 codec with FFmpeg
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
-- [GeiserX/jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA and Intel hardware acceleration
+- [GeiserX/quality-gate-encoder](https://github.com/GeiserX/quality-gate-encoder) - Quality Gate's encoder for Jellyfin: automatic 720p HEVC, H.264 or AV1 versions of a library, with NVIDIA and Intel hardware acceleration
 - [parkejunior/jellycc-cli](https://github.com/parkejunior/jellycc-cli) - A CLI to ensure Jellyfin Direct Play compatibility.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -3494,7 +3521,7 @@
 - [Obiente/native](https://github.com/Obiente/native) - Adaptive native Nextcloud client for mobile and desktop, with dynamic support for the wider Nextcloud app ecosystem.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [SiroxCW/Jellyfin-AniWorld-Downloader](https://github.com/SiroxCW/Jellyfin-AniWorld-Downloader) - A Jellyfin plugin to browse and download animes & series directly, fully integrated into your media server. If you enjoy using it, feel free to leave a ⭐!
-- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for 
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, termin
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - A general-purpose window upscaler for Windows 10/11.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
