@@ -184,11 +184,12 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [KrishnaSSH/gophertube](https://github.com/KrishnaSSH/gophertube) - A modern terminal user interface for searching and watching  YouTube videos using mpv and chafa.
 - [qaribhaider/ollama-to-lmstudio-symlinks](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) - A small utility to use Ollama models in LM Studio (and vice versa via symlinking) without duplicating disk space
 - [jesposito/shrinkray](https://github.com/jesposito/shrinkray) - Simple, efficient video transcoding for your media library
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [versenilvis/IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -249,6 +250,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [indietool/cli](https://github.com/indietool/cli) - An all-in-one tool for unified infrastructure management
 - [joshi4/splash](https://github.com/joshi4/splash) - Add color to your logs
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
@@ -313,6 +315,7 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [pictaria-ai/pictaria-server](https://github.com/pictaria-ai/pictaria-server) - Self-hosted photo intelligence, enrichment, curation, and automation for your Immich library. Pictaria Server helps you explore and understand your collection, optionally enrich it with AI, review you
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -358,6 +361,7 @@
 - [Vansmak/composr](https://github.com/Vansmak/composr) - A docker container manager and compose editor
 - [Dezaimasu/cute-button](https://github.com/Dezaimasu/cute-button) - Little button to save images and webms in one click.
 - [JasonTulp/mcparr-server](https://github.com/JasonTulp/mcparr-server) - MCP Server for Radarr and Sonarr services
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder) - A NodeJS ReVanced Extended builder
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -548,6 +552,7 @@
 
 ## PHP 
 
+- [Znerox/wifimap](https://github.com/Znerox/wifimap) - WiFi- and Bluetooth devices overlayed on Google Maps. Sourced from WiGLE Android app / Aircrack-ng.
 - [shish/shimmie2](https://github.com/shish/shimmie2) - An easy-to-install community image gallery (aka booru)
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -599,7 +604,8 @@
 - [o7-machinehum/flipper-blackhat](https://github.com/o7-machinehum/flipper-blackhat) - Linux based WiFi pentesting device for the Flipper Zero.
 - [pacnpal/compressatorium](https://github.com/pacnpal/compressatorium) - The laboratory for ROM compression. Self-hosted web UI that converts to Z3DS, CHD, RVZ, and other formats.
 - [JoyNath1337/Fitgirl-Easy-Downloader](https://github.com/JoyNath1337/Fitgirl-Easy-Downloader) - This Tool Helps To Download Multiple Files Easily From fitgirl-repacks.site Through fuckingfast.co
-- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A self-hosted media download manager, automation interface, and media library preparation layer for yt-dlp
+- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
+- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - Media download manager, automation interface, and media library preparation layer for yt-dlp
 - [SpaceinvaderOne/a-eye](https://github.com/SpaceinvaderOne/a-eye) - Self-hosted AI photo intelligence tool. Uses local vision models via Ollama to describe, tag, rename, and search your photos. No cloud needed.
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
@@ -844,7 +850,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [stoolap/stoolap](https://github.com/stoolap/stoolap) - A Modern Embedded SQL Database written in Rust
-- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Runs coding agents as a graph: one agent implements, independent agents review, failures go to repair, and nothing ships until the checks pass. Works with Codex, Claude Code and Copilot.
+- [the-open-engine/zeroshot](https://github.com/the-open-engine/zeroshot) - Enforced QA for Claude Code, Codex and Copilot. Draw the graph: code review, your own reviewers and test agents, any model per node. Slop goes back to repair, and the agent that wrote the code can't s
 - [bcherb2/ffdash](https://github.com/bcherb2/ffdash) - A terminal UI for batch AV1 & VP9 video encoding with hardware acceleration, real-time progress monitoring, and full control over quality settings.  Made to work as a viable encoding dashboard over SS
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
@@ -933,7 +939,7 @@
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [CyberSkull/cbz.sh](https://github.com/CyberSkull/cbz.sh) - Simple script to create a cbz archive from a folder.
 - [tmiland/invidious-updater](https://github.com/tmiland/invidious-updater) - Automatic install and update script for Invidious
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -993,6 +999,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Formsmith746/SketchForge-3D](https://github.com/Formsmith746/SketchForge-3D) - A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [zorcerer/heddohon](https://github.com/zorcerer/heddohon) - Server-rendered music player for Navidrome/Subsonic and Jellyfin libraries
@@ -1027,7 +1034,6 @@
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create & scan cute qr codes easily 👾
 - [hankscafe/omnibus](https://github.com/hankscafe/omnibus) - Omnibus - A self-hosted comic book and manga manager. Automate downloads, sync rich metadata, and read your collection from anywhere. Your Universe. Organized.
-- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [hhftechnology/crowdsec_manager](https://github.com/hhftechnology/crowdsec_manager) - A web-based and mobile management interface and dashboard for CrowdSec security stack with Pangolin integration and multi proxy support- caddy, NPM, etc. This project replaces the bash script with a m
 - [jnunez2301/jellyfin-wireless-remote](https://github.com/jnunez2301/jellyfin-wireless-remote) - 
 - [zbrave/vcompose](https://github.com/zbrave/vcompose) - 
@@ -1080,7 +1086,6 @@
 - [RA341/dockman](https://github.com/RA341/dockman) - Yet another docker compose manager for homelabs
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [Stannnnn/jelly-app](https://github.com/Stannnnn/jelly-app) - A lightweight & elegant music interface for Jellyfin.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -1094,7 +1099,6 @@
 - [amicalhq/amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
 - [aquasecurity/trivy-vscode-extension](https://github.com/aquasecurity/trivy-vscode-extension) - A VS Code Extension for Trivy
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [Supernova3339/changerawr](https://github.com/Supernova3339/changerawr) - Changelog software for everyone - Ship, Change, Rawr 🦖
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Dan6erbond/jolt](https://github.com/Dan6erbond/jolt) - The social hub for your media server. Rate, review and recommend movies and shows, as well as manage your watchlist, follow friends and more.
@@ -1114,7 +1118,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
